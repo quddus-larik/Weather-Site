@@ -7,5 +7,3 @@ I have Developed a Weather app by Fetching API from weatherAPI.com that give mor
 4. JS
 ### FrameWorks
 1. Chart.js
-# Live Demo
-[Weather Site](https://qvis-weather-site.netlify.app/)
